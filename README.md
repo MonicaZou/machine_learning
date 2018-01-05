@@ -1,2 +1,2 @@
 # machine_learning
-计算auc值
+机器学习算法笔记
